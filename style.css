@@ -60,6 +60,7 @@ html, body{
     font-size: 1.3rem;
     font-weight: 600;
     border-right: 2px solid black;
+    margin-left: 20px;
 }
 #nav h3{
     display: none;
